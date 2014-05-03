@@ -7,3 +7,6 @@
 [submodule "plugin/FuzzyAutocompletePlugin"]
 	path = plugin/FuzzyAutocompletePlugin
 	url = https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin.git
+[submodule "plugin/xctool"]
+	path = plugin/xctool
+	url = https://github.com/facebook/xctool.git
