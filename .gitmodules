@@ -4,3 +4,6 @@
 [submodule "plugin/SCXcodeMiniMap"]
 	path = plugin/SCXcodeMiniMap
 	url = https://github.com/stefanceriu/SCXcodeMiniMap.git
+[submodule "plugin/FuzzyAutocompletePlugin"]
+	path = plugin/FuzzyAutocompletePlugin
+	url = https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin.git
