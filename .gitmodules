@@ -19,3 +19,6 @@
 [submodule "plugin/XAlign"]
 	path = plugin/XAlign
 	url = https://github.com/qfish/XAlign.git
+[submodule "plugin/VVDocumenter-Xcode"]
+	path = plugin/VVDocumenter-Xcode
+	url = https://github.com/onevcat/VVDocumenter-Xcode.git
