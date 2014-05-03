@@ -10,3 +10,6 @@
 [submodule "plugin/xctool"]
 	path = plugin/xctool
 	url = https://github.com/facebook/xctool.git
+[submodule "plugin/Lin-Xcode5"]
+	path = plugin/Lin-Xcode5
+	url = https://github.com/questbeat/Lin-Xcode5.git
