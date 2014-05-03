@@ -16,3 +16,6 @@
 [submodule "plugin/BBUDebuggerTuckAway"]
 	path = plugin/BBUDebuggerTuckAway
 	url = https://github.com/neonichu/BBUDebuggerTuckAway.git
+[submodule "plugin/XAlign"]
+	path = plugin/XAlign
+	url = https://github.com/qfish/XAlign.git
