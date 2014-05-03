@@ -1,3 +1,6 @@
 [submodule "plugin/Xcode-Snippets"]
 	path = plugin/Xcode-Snippets
 	url = https://github.com/mattt/Xcode-Snippets.git
+[submodule "plugin/SCXcodeMiniMap"]
+	path = plugin/SCXcodeMiniMap
+	url = https://github.com/stefanceriu/SCXcodeMiniMap.git
