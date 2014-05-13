@@ -22,3 +22,7 @@
 [submodule "plugin/VVDocumenter-Xcode"]
 	path = plugin/VVDocumenter-Xcode
 	url = https://github.com/onevcat/VVDocumenter-Xcode.git
+[submodule "plugin/XcodeBoost"]
+	path = plugin/XcodeBoost
+	url = https://github.com/fortinmike/XcodeBoost.git
+	branch = master
